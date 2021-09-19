@@ -1,0 +1,43 @@
+1. Values are 'hello', -87.6, 6
+
+2.String is a value that can be stored in a variable.
+eg: String a='hello'
+Here a is varible and 'hello' is a string.
+
+3.three data types are:
+int: it can contain positive and negative whole numbers 
+eg: int a=100
+
+float: it can contaiin positive or negative decimal numbers
+eg: float b= 10.5
+
+complex: it has real part and imaginary part.
+eg: c= 4+5j
+
+ 
+4. Expression is a combination of operators and variables to produce a value.
+Eg: c=a+b
+Expressions evaluates to a single value
+
+5. Statement represents an action whereas expression is a combination of operators and variables to produce a value.
+Statement:
+print 'hello'
+c=10
+
+Expression:
+c=a+b
+
+6. 23
+
+7. 'spamspamspam'
+    'spamspamspam'
+    
+8. Varible should be alpha numeric and underscore. It should not start with numbers.This is why eggs is valid and 100 is not.
+
+9. The 3 functions are int(),float() and str().
+
+10. String can concatenate with string only and not with int.
+correct syntax is 'I have eaten'+'99'+'burritos'
+
+
+
