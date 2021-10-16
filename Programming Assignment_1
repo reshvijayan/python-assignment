@@ -1,0 +1,32 @@
+1. print ("hello python")
+
+2. 
+a=int(input())
+b=int(input())
+sum=a+b
+div=a/b
+print (sum)
+print (div)
+
+3.
+h=int(input())
+b=int(input())
+area=0.5*b*h
+print("Area of triangle=", area)
+
+4.
+x=int(input())
+y=int(input())
+print("x=",x )
+print("y=",y )
+temp=x
+x=y
+y=temp
+print("after swapping")
+print("x=",x )
+print("y=",y )
+
+
+5.
+import random
+print(random.randint(0,9))
