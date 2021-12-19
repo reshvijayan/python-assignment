@@ -1,0 +1,20 @@
+1.  km=int(input("Enter kilometer"))
+    miles=km/1.6
+    print("miles=", miles)
+
+2.
+c=int(input("Enter celsius"))
+f=((9/5) *c) + 32
+print("Fahrenheit =",f)
+
+3.
+import calendar
+year=int(input("Enter year"))
+month=int(input("Enter month"))
+print(calendar.month(year, month))
+
+5.
+a=12
+b=88
+a,b=b,a
+print("after swapping a=", a,"and b =",b)
